@@ -36,11 +36,12 @@ Follow these steps to set up and run `pntjs-wabot`:
    npm start
    ```
 5. **Authentication Modes**
+   
    Change /config.js
    ```javascript
    usePairingCode: true
    ```
-   to
+   **TO**
    ```javascript
    usePairingCode: false
    ```
