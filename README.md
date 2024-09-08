@@ -13,7 +13,15 @@
 - **Media Handling:** Support for sending and receiving media files such as images, videos, and documents.
 - **Command System:** Easily extend and customize the bot by adding new commands.
 
-## Getting Started
+## Changelogs
+Version :
+```bash
+1.4.4.0
+```
+- **Added TicTacToe**
+- **Fixed Some Bugs**
+- **UI Improvement**
+## Getting Started**
 
 Follow these steps to set up and run `pntjs-wabot`:
 
