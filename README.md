@@ -111,4 +111,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore, modify, and enhance `ckptw-wabot` to suit your specific needs. Happy coding!
+Feel free to explore, modify, and enhance `pntjs-wabot` to suit your specific needs. Happy coding!
