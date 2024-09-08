@@ -1,6 +1,6 @@
 # ckptw-wabot - WhatsApp Bot with @mengkodingan/ckptw
 
-> **Notes:** This script has been re-maintained.
+// > **Notes:** This script has been re-maintained.
 
 ## Overview
 
