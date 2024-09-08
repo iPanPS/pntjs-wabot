@@ -11,6 +11,7 @@ global.bot = {
     phoneNumber: "628xxxxxxxxxx", // Ignore if you use QR code for authentication.
     thumbnail: "https://e1.pxfuel.com/desktop-wallpaper/943/672/desktop-wallpaper-whatsapp-bot-what-is-it-and-how-to-use-messenger-chatbots-chatbot.jpg",
     groupChat: "https://chat.whatsapp.com/FlqTGm4chSjKMsijcqAIJs" // Don't forget to join, friends!
+    version: 1.4.4.0
 };
 
 // MSG (Message).
