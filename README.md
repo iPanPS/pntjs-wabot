@@ -3,7 +3,7 @@
 
 ## Overview
 
-`ckptw-wabot` is a WhatsApp Bot built using the [@mengkodingan/ckptw](https://ckptw.mengkodingan.my.id/) library and base bot by [@itsreimau/ckptw-wabot](github.com/itsreimau/ckptw-wabot). This bot allows you to automate various tasks on WhatsApp, and it supports a modular architecture through commands.
+`ckptw-wabot` is a WhatsApp Bot built using the [@mengkodingan/ckptw](https://ckptw.mengkodingan.my.id/) library and base bot by [github.com/itsreimau/ckptw-wabot](https://github.com/itsreimau/ckptw-wabot.git). This bot allows you to automate various tasks on WhatsApp, and it supports a modular architecture through commands.
 
 ## Features
 
