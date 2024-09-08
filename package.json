@@ -1,6 +1,6 @@
 {
   "name": "pntjs-bot",
-  "version": "1.31.4",
+  "version": "1.4.4.0",
   "description": "WhatsApp Bot with @mengkodingan/ckptw. | bot base by itsreimau.",
   "main": "index.js",
   "directories": {
