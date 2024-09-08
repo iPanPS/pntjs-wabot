@@ -21,7 +21,7 @@ Version :
 - **Added TicTacToe**
 - **Fixed Some Bugs**
 - **UI Improvement**
-## Getting Started**
+## Getting Started
 
 Follow these steps to set up and run `pntjs-wabot`:
 
