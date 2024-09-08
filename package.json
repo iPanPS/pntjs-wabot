@@ -1,0 +1,54 @@
+{
+  "name": "pntjs-bot",
+  "version": "1.31.4",
+  "description": "WhatsApp Bot with @mengkodingan/ckptw. | bot base by itsreimau.",
+  "main": "index.js",
+  "directories": {
+    "assets": "assets",
+    "commands": "commands",
+    "tools": "tools"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "start:pm2": "pm2 start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsreimau/pntjs-wabot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-bot",
+    "wa-bot",
+    "wabot",
+    "bot-wa"
+  ],
+  "author": "I Nyoman Evan Widyadhana | iPannjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsreimau/pntjs-wabot/issues"
+  },
+  "homepage": "https://github.com/itsreimau/pntjs-wabot#readme",
+  "dependencies": {
+    "@mengkodingan/ckptw": "^4.3.6",
+    "@whiskeysockets/baileys": "6.7.7",
+    "axios": "1.7.7",
+    "bing-translate-api": "^4.0.2",
+    "cfonts": "^3.3.0",
+    "cheerio": "^1.0.0",
+    "didyoumean": "^1.2.2",
+    "form-data": "^4.0.0",
+    "jimp": "^0.16.1",
+    "jsdom": "^25.0.0",
+    "link-preview-js": "^3.0.5",
+    "mime-types": "^2.1.35",
+    "moment-timezone": "^0.5.45",
+    "node-yt-dl": "^2.2.1",
+    "simpl.db": "^2.13.0",
+    "telegraph-uploader": "^2.0.0",
+    "util": "^0.12.5",
+    "wa-sticker-formatter": "^4.4.4"
+  },
+  "devDependencies": {}
+}
